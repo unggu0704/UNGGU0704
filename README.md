@@ -11,8 +11,6 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unggu556)](https://solved.ac/unggu556/)
 
-
-  ### [**[ My Portfolio ]**](https://unggu.vercel.app) 
 </div>
 
 
