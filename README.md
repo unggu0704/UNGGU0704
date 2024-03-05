@@ -27,7 +27,7 @@
 <br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=unggu0704&theme=dracula" width = 94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=unggu0704&theme=dracula" width = 93%/>
 </a>
 
 ## 🥇 Algorithm Solve
