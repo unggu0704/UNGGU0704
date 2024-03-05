@@ -36,7 +36,10 @@
 
 ## 📋 PortFolio
 
-<a href="https://unggu.vercel.app"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="100"></a>
+[<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="90" target="_blank">](https://unggu.vercel.app)
+
+
+
 
 
 
