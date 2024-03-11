@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=180&section=header&text=Unggu%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=140&section=header&text=Unggu%20Github&fontSize=60)
 
 
 ## 🛠️ Tech Stacks
