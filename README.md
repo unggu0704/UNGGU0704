@@ -37,7 +37,7 @@
 
 ## 📋 PortFolio
 
-[<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="90" target="_blank">](https://unggu.vercel.app)
+[<img src="https://cdn.sanity.io/images/tlf1txkp/production/a5961132c3c4791c5c2b6a38aeff177bd7282c08-1200x675.png?w=1000&h=500&fm=webp" width="200" target="_blank">](https://unggu.vercel.app)
 
 
 
