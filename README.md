@@ -33,9 +33,3 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unggu556)](https://solved.ac/unggu556/)
 
-## 📋 PortFolio
-
-[<img src="https://cdn.sanity.io/images/tlf1txkp/production/a5961132c3c4791c5c2b6a38aeff177bd7282c08-1200x675.png?w=1000&h=500&fm=webp" width="200" target="_blank">](https://unggu.vercel.app)
-
-
-
