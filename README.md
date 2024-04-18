@@ -1,6 +1,12 @@
 
 <div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funggu0704%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## :tea: 김규형 <a href="mailto:kyuhung1001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyuhung1001@gmail.com"/></a>
+
+ 알맞은 기술과 구조로 소프트웨어를 설계하는법을 배우고 <br>
+이를 통해 코드를 다듬어 좋은 소프트웨어를 만드는 일을 하고 싶습니다.
 
 ## 🛠️ Tech Stacks
 
