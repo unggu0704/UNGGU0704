@@ -37,4 +37,6 @@ Java 기반 웹 개발과 Swift 기반 iOS 환경에서의 개발에 흥미를 �
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unggu556)](https://solved.ac/unggu556/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funggu0704%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="mailto:kyuhung1001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyuhung1001@gmail.com"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B7%9C%ED%98%95-%EA%B9%80-5b5b10299/)](https://www.linkedin.com/in/%EA%B7%9C%ED%98%95-%EA%B9%80-5b5b10299/)
+<a href="mailto:kyuhung1001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyuhung1001@gmail.com"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funggu0704%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
