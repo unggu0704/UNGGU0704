@@ -11,13 +11,12 @@ Java 기반 웹 개발과 Swift 기반 iOS 환경에서의 개발에 흥미를 �
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![JSP/Servlet](https://img.shields.io/badge/JSP%2FServlet-007396?style=flat-square&logo=Java&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+<img src="https://img.shields.io/badge/Spring-9ACD32?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-9ACD32?style=flat&logo=SpringBoot&logoColor=white"/> 
 <br/>![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ED5?style=flat-square&logo=Swift&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core_Data-007AFF?style=flat-square&logo=Apple&logoColor=white)
-<br/>![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core_Data-007AFF?style=flat-square&logo=Apple&logoColor=white) <br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/Vue.js-099268?style=flat&logo=Vue.js&logoColor=white"/> 
 
 
 
