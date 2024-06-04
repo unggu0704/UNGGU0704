@@ -14,9 +14,7 @@ Java 기반 웹 개발과 Swift 기반 iOS 환경에서의 개발에 흥미를 �
 <img src="https://img.shields.io/badge/Spring-9ACD32?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-9ACD32?style=flat&logo=SpringBoot&logoColor=white"/> 
 <br/>![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ED5?style=flat-square&logo=Swift&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core_Data-007AFF?style=flat-square&logo=Apple&logoColor=white) <br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<img src="https://img.shields.io/badge/Vue.js-099268?style=flat&logo=Vue.js&logoColor=white"/> 
+![Core Data](https://img.shields.io/badge/Core_Data-007AFF?style=flat-square&logo=Apple&logoColor=white)  
 
 
 
