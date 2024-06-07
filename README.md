@@ -15,8 +15,8 @@ Java 기반 웹 개발과 Swift 기반 iOS 환경에서의 개발에 흥미를 �
 <br/>![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ED5?style=flat-square&logo=Swift&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-007AFF?style=flat-square&logo=Apple&logoColor=white)  
-
-
+<img src="https://img.shields.io/badge/Vue.js-099268?style=flat&logo=Vue.js&logoColor=white"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ## 👨‍💼 Stats
 
