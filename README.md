@@ -2,7 +2,10 @@
 <div align="center">
 
 ## :tea: 김규형 
-날먹을 하고 싶은 개발자
+ 알맞은 기술과 구조로 소프트웨어를 설계하고 <br>
+ 이를 통해 코드를 다듬어 좋은 산출물을 만드는 개발자를 목표로 하고 있습니다.
+
+ 현재 Kt ds 오픈채널 서비스팀에서 웹 사이트를 유지 보수 하는 업무를 하고 있습니다.
 
 ## 🛠️ Tech Stacks
 
@@ -12,24 +15,11 @@
 <br/>![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ED5?style=flat-square&logo=Swift&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-007AFF?style=flat-square&logo=Apple&logoColor=white)  
-<img src="https://img.shields.io/badge/Vue.js-099268?style=flat&logo=Vue.js&logoColor=white"/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
-## 👨‍💼 Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=unggu0704&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unggu0704&layout=compact&langs_count=8&theme=dracula&card_width=310" />
-</a>
-
-<br>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Azure&logoColor=white)
 
 
-## 🥇 Algorithm Solve
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unggu556)](https://solved.ac/unggu556/)
+## 👨‍💼 About Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B7%9C%ED%98%95-%EA%B9%80-5b5b10299/)](https://www.linkedin.com/in/%EA%B7%9C%ED%98%95-%EA%B9%80-5b5b10299/)
 <a href="mailto:kyuhung1001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyuhung1001@gmail.com"/></a>
